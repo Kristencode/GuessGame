@@ -59,18 +59,17 @@ document.querySelector('.again').addEventListener(
         document.querySelector('.number').style.width = '15rem';
         document.querySelector('.guess').value = '';
         theMessage('!Start over..');
-        document.querySelector('.message').style.color = '#333';
+        // document.querySelector('.message').style.color = '#333';
 
-        document.querySelector('body').style.backgroundColor = '#e7b6b6';
-        document.querySelector('body').style.color = '#333';
+        // document.querySelector('body').style.backgroundColor = '#e7b6b6';
+        // document.querySelector('body').style.color = '#333';
 
-        document.querySelector('.highscore').style.color = '#333'
+        // document.querySelector('.highscore').style.color = '#333'
 
-        document.querySelector('.guess').style.background = '#333'
+        // document.querySelector('.guess').style.background = '#333'
 
 
-    }
-)// here is the function for the again button...here the again button when clicked resets all functions back to default.
+    })// here is the function for the again button...here the again button when clicked resets all functions back to default.
 
 
 
